@@ -1,8 +1,10 @@
-# React + Vite
+# Fast React Pizza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Users can add items to the cart edit and modify items from the product page and cart and place orders with priority and without priority. Also, mark the order as a priority after placing the order. Can search order details with orderID.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React JS
+- Rest API
+- Tailwind CSS
+- Redux
+- Redux Thunk
